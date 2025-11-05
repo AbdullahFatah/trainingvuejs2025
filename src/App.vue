@@ -1,6 +1,10 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
+<footer>
+  <p>© 2024 My Vue App</p>
+  <p> Abdullah</p>
+</footer>
 </template>
 
 <script>
