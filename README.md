@@ -1,4 +1,5 @@
 # trainingvuejs2025
+Name of the project
 
 ## Project setup
 ```
